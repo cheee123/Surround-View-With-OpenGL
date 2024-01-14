@@ -1,0 +1,2 @@
+#define FILEPATH "./resources/Vehicle1_Way0/180/"
+const int chosen_cam [] = {0,1,6,3,7,5};
