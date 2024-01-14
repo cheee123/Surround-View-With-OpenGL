@@ -1,4 +1,4 @@
-# Projective Texture Bowl Grids
+# 360 Surround View Rendering with OpenGL
 
 The required libraries for this project: GLES(3.0), glfw, glm
 
