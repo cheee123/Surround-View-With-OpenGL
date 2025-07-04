@@ -73,4 +73,7 @@ Then run this command to do all the jobs (cmake, make, etc.)
 ./doall.sh
 ```
 
+Rendering result:
+
+![til](./SurroundView.gif)
 
